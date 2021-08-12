@@ -1,7 +1,7 @@
 ### Howdy! Igor here 👋
 
 I'm working as frontend software developer at Paipe | Technology and Inovation (Campo Bom, RS - Brasil) since 2020.  
-My main technologie is React.
+My main technology is React.
 
 <p align="left">
   <a href="mailto:igorhaagrod@gmail.com">
