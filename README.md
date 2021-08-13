@@ -1,4 +1,4 @@
-### Howdy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"
+### Howdy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm Igor and I'm currently working as frontend software developer at Paipe | Technology and Inovation (Campo Bom, RS - Brasil) since 2020.  
 My main technology is React.
