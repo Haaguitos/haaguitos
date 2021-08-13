@@ -11,8 +11,7 @@
 
 ## About me
 
-I'm Igor and I'm currently working as frontend software developer at Paipe | Technology and Inovation (Campo Bom, RS - Brasil) since 2020.  
-My main technology is React.
+I'm Igor and I'm currently working as frontend software developer at Paipe | Technology and Inovation (Campo Bom, RS - Brasil) since 2020.
 
 ## Languages and Technologies I use daily
 
